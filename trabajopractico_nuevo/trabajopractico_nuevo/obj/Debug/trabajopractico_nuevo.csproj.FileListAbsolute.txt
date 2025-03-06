@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\SharpDevelop Projects\trabajopractico_nuevo\trabajopractico_nuevo\obj\Debug\trabajopractico_nuevo.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\SharpDevelop Projects\trabajopractico_nuevo\trabajopractico_nuevo\bin\Debug\trabajopractico_nuevo.exe.config
+C:\Users\Lenovo\Documents\SharpDevelop Projects\trabajopractico_nuevo\trabajopractico_nuevo\bin\Debug\trabajopractico_nuevo.exe
+C:\Users\Lenovo\Documents\SharpDevelop Projects\trabajopractico_nuevo\trabajopractico_nuevo\bin\Debug\trabajopractico_nuevo.pdb
+C:\Users\Lenovo\Documents\SharpDevelop Projects\trabajopractico_nuevo\trabajopractico_nuevo\obj\Debug\trabajopractico_nuevo.exe
+C:\Users\Lenovo\Documents\SharpDevelop Projects\trabajopractico_nuevo\trabajopractico_nuevo\obj\Debug\trabajopractico_nuevo.pdb
